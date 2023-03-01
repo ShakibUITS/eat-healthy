@@ -1,0 +1,65 @@
+.hero-section {
+    display: flex;
+    width: 100%;
+}
+
+div img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0px;
+}
+
+.hero-div {
+    margin-top: 10%;
+    padding-left: 5%;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 25px;
+}
+
+#background {
+    background-image: url(background2.jpg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.box-shadow {
+    box-shadow: 10px 10px 40px gray;
+    margin: 3%;
+    border-radius: 10%;
+    padding-top: 5%;
+}
+
+.flexible {
+    display: flex;
+    box-shadow: 5px 5px 40px gray;
+    width: 60%;
+}
+
+.text-center {
+    text-align: center;
+    padding: 3%;
+    margin: auto;
+}
+
+footer {
+    background-color: black;
+    padding: 5%;
+    text-align: center;
+    margin-top: 5%;
+}
